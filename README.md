@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salih</h1>
-<h3 align="center">Second year Co-op Student @ University of Guelph</h3>
+<h3 align="center">Third year Co-op Student @ University of Guelph</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
